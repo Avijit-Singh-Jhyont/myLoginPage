@@ -1,0 +1,8 @@
+This project is a simple login page demonstration.
+It is quite self explanatory once you execute it in a CLI or IDE(preferrably Intellij) 
+Upon execution, a Javafx window will pop up requiring admin credentials(please follow the steps to sign into the application; The credentials stay in
+you local RAM as explained upon execution but I still recommend generating a temporary app password for use through your gmail address)
+Once credentials are submitted, please go to your localhost:8080 URL page and try registering some users.
+
+Hope you Enjoy :)
+
